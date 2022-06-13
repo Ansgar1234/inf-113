@@ -1,0 +1,35 @@
+*{
+    margin: 5px;
+    margin-top: 0px;
+    padding: 5px;
+}
+body{
+    background-color: black;
+    color: #b8bbcc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+header{
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    margin-bottom: 20px;
+
+}
+#main-container{
+    margin:100px auto;
+    width:900px;
+}
+img{
+    height: auto;
+    width: 30%;
+}
+div{
+    height: auto;
+    width: 100%;
+}
+h2{
+    color: white;
+}
+a{
+    color: #00cc00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
